@@ -1,0 +1,12 @@
+{
+  "name": "hub-bceg",
+  "version": "1.0.0",
+  "description": "Hub Digital BCEG",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
